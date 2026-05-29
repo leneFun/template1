@@ -18,6 +18,7 @@ public class TemplateMod implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		//new item
 
 
 
