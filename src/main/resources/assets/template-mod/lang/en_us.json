@@ -1,4 +1,6 @@
 {
-  "item.template-mod.badge": "Badge"
+  "item.template-mod.badge": "Badge",
+
+  "itemgroup.badge": "Badge sum"
 
 }

@@ -2,7 +2,7 @@ package com.example;
 
 import item.ModItems;
 import net.fabricmc.api.ModInitializer;
-
+import item.ModItemGroups;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -18,6 +18,7 @@ public class TemplateMod implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		ModItemGroups.registerItemGroups();
 		//new item
 
 
