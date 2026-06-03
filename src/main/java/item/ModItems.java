@@ -13,7 +13,7 @@ import net.minecraft.util.Identifier;
 public class ModItems {
 
     public static final Item BADGE = registerItem("badge", new Item(new FabricItemSettings()));
-    public static final Item RAW_BADGE = registerItem("raw badge", new Item(new FabricItemSettings()));
+    public static final Item RAW_BADGE = registerItem("raw_badge", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
 

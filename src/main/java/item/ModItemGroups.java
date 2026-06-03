@@ -1,5 +1,6 @@
 package item;
 
+import block.ModBlocks;
 import com.example.TemplateMod;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
@@ -18,6 +19,8 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.BADGE))
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.BADGE);
+                        entries.add(ModItems.RAW_BADGE);
+                        entries.add(ModBlocks.BADGE_BLOCK);
                     })
                     .build());
 
