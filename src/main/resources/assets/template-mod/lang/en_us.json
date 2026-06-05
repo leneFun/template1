@@ -1,6 +1,7 @@
 {
   "item.template-mod.badge": "Badge",
   "item.template-mod.raw_badge": "raw badge",
+  "block.template-mod.badge_block": "badge block",
 
   "itemgroup.badge": "Badge Mod"
 
