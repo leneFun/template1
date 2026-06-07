@@ -21,6 +21,7 @@ public class ModItemGroups {
                         entries.add(ModItems.BADGE);
                         entries.add(ModItems.RAW_BADGE);
                         entries.add(ModBlocks.BADGE_BLOCK);
+                        entries.add(ModBlocks.BADGE_PRO_BLOCK);
                     })
                     .build());
 

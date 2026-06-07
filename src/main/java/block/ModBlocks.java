@@ -1,7 +1,6 @@
 package block;
 
 import com.example.TemplateMod;
-import com.mojang.patchy.BlockedServers;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
@@ -15,6 +14,10 @@ import net.minecraft.util.Identifier;
 
 public class ModBlocks {
     public static final Block BADGE_BLOCK = registerBlock("badge_block", new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).sounds(BlockSoundGroup.AMETHYST_BLOCK)));
+    public static final Block RAW_BADGE_BLOCK = registerBlock("raw_badge_block", new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
+    public static final Block BADGE_PRO_BLOCK = registerBlock("badge_pro_block", new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).sounds(BlockSoundGroup.AMETHYST_BLOCK)));
+
+
 
     private static Block registerBlock(String name,Block block){
 
