@@ -1,9 +1,11 @@
 {
   "type": "minecraft:crafting_shapeless",
   "category": "building",
-  "ingredients": {
-    "item": "template-mod:badge_block"
-  },
+  "ingredients": [
+    {
+      "item": "template-mod:badge_block"
+    }
+  ],
   "result":{
     "item":"template-mod:badge",
     "count":9
