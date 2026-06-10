@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "experience": 0.5,
+  "pattern":[
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "template-mod:badge"
+    }
+  },
+  "result": {
+    "item": "template-mod:badge_block"
+  }
+}

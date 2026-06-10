@@ -1,6 +1,6 @@
 {
-  "parent": "block/cube-all",
+  "parent": "block/cube_all",
   "textures": {
-    "all": "template-mod:block/badge_block"
+    "all": "template-mod:item/badge"
   }
 }
