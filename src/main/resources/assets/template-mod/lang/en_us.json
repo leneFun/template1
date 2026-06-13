@@ -2,7 +2,9 @@
   "item.template-mod.badge": "Badge",
   "item.template-mod.raw_badge": "raw badge",
   "block.template-mod.badge_block": "badge block",
-  "block.template-mod.badge_pro_block": "Probadgeblock",
+  "block.template-mod.badge_pro_block": "Pro badge block",
+  "block.template-mod.deepslate_badge_block": "deepslate badge block",
+  "block.template-mod.badge_ore": "badge ore",
 
   "itemgroup.badge": "Badge Mod"
 

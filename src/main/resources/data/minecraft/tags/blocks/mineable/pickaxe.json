@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+"template-mod:raw_badge_block",
+    "template-mod:badge_block",
+    "template-mod:deepslate_badge_block"
+  ]
+}

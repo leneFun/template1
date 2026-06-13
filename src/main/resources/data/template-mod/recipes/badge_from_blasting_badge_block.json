@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 20,
+  "experience": 0.5,
+  "group": "badge",
+  "ingredient": {
+    "item": "template-mod:badge_block"
+  },
+  "result": "template-mod:badge"
+}
